@@ -117,7 +117,7 @@ CSS3_COLORS = {
     'olive': '#808000',
     'olivedrab': '#6B8E23',
     'orange': '#FFA500',
-    'orangered': '#FF4500',
+    'orangered': '#FF4500',  
     'orchid': '#DA70D6',
     'palegoldenrod': '#EEE8AA',
     'palegreen': '#98FB98',
